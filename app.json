@@ -1,5 +1,8 @@
 {
   "expo": {
+    "experiments": {
+      "tsconfigPaths": true
+    },
     "name": "brc-20",
     "slug": "brc-20",
     "version": "1.0.0",
